@@ -1,0 +1,64 @@
+﻿ELZ_cash-flow_Annual_As_Originally_Reported,2020,2021,2022,2023,2024,TTM
+"Cash Flow from Operating Activities, Indirect",4735800.,1320306.,643392.,6769650.,-3233337.,-3233337.
+"    Net Cash Flow from Continuing Operating Activities, Indirect",4735800.,1320306.,643392.,6769650.,-3233337.,-3233337.
+        Cash Generated from Operating Activities,7384668.,5244190.,6102515.,13314667.,555421.,555421.
+            Income/Loss before Non-Cash Adjustment,2351196.,5457118.,487201.,-3614598.,-35219247.,-35219247.
+            Total Adjustments for Non-Cash Items,4111154.,4729650.,6397093.,7689373.,40365564.,40365564.
+"                Depreciation, Amortization and Depletion, Non-Cash Adjustment",1539726.,1889021.,2020534.,2060708.,2045838.,2045838.
+"                    Depreciation and Amortization, Non-Cash Adjustment",1539726.,1889021.,2020534.,2060708.,2045838.,2045838.
+"                        Amortization, Non-Cash Adjustment",1539726.,1889021.,,,,
+"                        Depreciation, Non-Cash Adjustment",,,,,,
+"                Interest and Finance Income/Expenses, Non-Cash Adjustment",3174002.,3766740.,5264002.,6237223.,8310107.,8310107.
+"                Irregular Income/Loss, Non-Cash Adjustment",,,.,,30131013.,30131013.
+"                    Write off/Write down/Impairment of Capital Assets Loss/Reversal, Non-Cash Adjustment",,,,,330615.,330615.
+"                    Write Down and Write off of Other Assets, Non-Cash Adjustment",,,.,,29800398.,29800398.
+"                    Gain/Loss on Disposals, Non-Cash Adjustment",,,,,,
+"                        Gain/Loss on Disposal/Sale of Fixed Assets, Non-Cash Adjustment",,,,,,
+"                        Gain/Loss on Disposal/Sale of Business, Non-Cash Adjustment",,,,,,
+                Other Non-Cash Items,-602574.,-926111.,-887443.,-608558.,-121394.,-121394.
+"                Net Investment Income/Loss, Non-Cash Adjustment",,,,,,
+"                    Net Foreign Currency Exchange Gain/Loss, Non-Cash Adjustment",,,,,,
+"                    Realized Gain/Loss on Disposal/Sale of Financial Instruments, Non-Cash Adjustment",,,,,,
+            Changes in Operating Capital,922318.,-4942578.,-781779.,9239892.,-4590896.,-4590896.
+                Change in Inventories,-2247917.,-3552125.,-9619757.,7785241.,-1864142.,-1864142.
+                Change in Trade and Other Receivables,421246.,-3770755.,-832068.,5258687.,2712174.,2712174.
+                    Change in Trade/Accounts Receivable,,,,,,
+                Change in Other Current Assets,90996.,-141617.,-27050.,64986.,170139.,170139.
+                Change in Payables and Accrued Expenses,2657993.,2521919.,9697096.,-3869022.,-5609067.,-5609067.
+                    Change in Trade and Other Payables,2657993.,2521919.,9697096.,-3869022.,-5609067.,-5609067.
+                        Change in Trade/Accounts Payable,,,,,,
+                Change in Other Current Liabilities,,,,,,
+"        Interest Paid, CFO Indirect",-2613685.,-3481138.,-5138514.,-6117495.,-3650148.,-3650148.
+"        Interest Received, CFO Indirect",7650.,7650.,1703.,3355.,5697.,5697.
+"        Taxes Refund/Paid, Indirect",-42833.,-450396.,-322312.,-430877.,-144307.,-144307.
+Cash Flow from Investing Activities,-4280211.,-12328516.,-9831600.,-2518275.,5848056.,5848056.
+    Cash Flow from Continuing Investing Activities,-4280211.,-12328516.,-9831600.,-2518275.,5848056.,5848056.
+"        Purchase/Sale and Disposal of Property, Plant and Equipment, Net",-1758944.,-6357635.,-2365561.,-567227.,-195768.,-195768.
+"            Purchase of Property, Plant and Equipment",-1758944.,-6357635.,,-567227.,-216076.,-216076.
+"            Sale and Disposal of Property, Plant and Equipment",.,,,,20308.,20308.
+"        Purchase/Sale of Intangibles, Net",-48092.,-146810.,-153316.,-67899.,-38894.,-38894.
+            Purchase of Intangibles,-48092.,-146810.,,-67899.,-38894.,-38894.
+"        Purchase/Sale of Business, Net",-2543064.,-5689309.,-7475372.,-1860576.,741670.,741670.
+            Purchase/Acquisition of Business,-2543064.,-5689309.,,-3561942.,-35836.,-35836.
+            Sale of Business,,,,1701366.,777506.,777506.
+"        Purchase/Sale of Investments, Net",69889.,-134762.,162649.,-22573.,5341048.,5341048.
+            Purchase of Investments,-1037.,-134762.,,-22573.,.,.
+            Sale of Investments,70926.,.,,,5341048.,5341048.
+Cash Flow from Financing Activities,-2083171.,15093748.,7567053.,-5622938.,-4127289.,-4127289.
+    Cash Flow from Continuing Financing Activities,-2083171.,15093748.,7567053.,-5622938.,-4127289.,-4127289.
+"        Issuance of/Payments for Common Stock, Net",30516.,.,-15682.,15586.,-23676.,-23676.
+            Payments for Common Stock,,,-15682.,,-23676.,-23676.
+            Proceeds from Issuance of Common Stock,30516.,.,,15586.,,
+"        Issuance of/Repayments for Debt, Net",-2113687.,15093748.,12880358.,-2777134.,-4103613.,-4103613.
+"            Issuance of/Repayments for Long Term Debt, Net",-2113687.,15093748.,12880358.,-2777134.,-4103613.,-4103613.
+                Proceeds from Issuance of Long Term Debt,11565336.,30114891.,14779654.,1800363.,8285567.,8285567.
+                Repayments for Long Term Debt,-13679023.,-15021143.,-1899296.,-4577497.,-12389180.,-12389180.
+        Net Movement in Non-Controlling/Minority Interest,,,486438.,-486438.,,
+        Other Financing Cash Flow,,,-5784061.,-2374952.,,-872985.
+"Cash and Cash Equivalents, End of Period",1070288.,5155826.,3534671.,2163108.,650538.,650538.
+    Change in Cash,-1627582.,4085538.,-1621155.,-1371563.,-1512570.,-1512570.
+"    Cash and Cash Equivalents, Beginning of Period",2697870.,1070288.,5155826.,3534671.,2163108.,2163108.
+Cash Flow Supplemental Section,,,,,,
+"    Change in Cash as Reported, Supplemental",-1627582.,4085538.,-1621155.,-1371563.,-1512570.,-1512570.
+    Total Net Change in Cash,,,,,,
+Fiscal year ends in Dec 31 | EUR,,,,,,

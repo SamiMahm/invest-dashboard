@@ -1,0 +1,138 @@
+﻿ELZ_balance-sheet_Annual_As_Originally_Reported,2020,2021,2022,2023,2024
+Total Assets,141298005.,164176521.,181577142.,170508892.,132693924.
+    Total Current Assets,25872116.,37737028.,45835090.,31947441.,24138181.
+"        Cash, Cash Equivalents and Short Term Investments",6177190.,10605736.,8848094.,7891966.,1176751.
+            Cash and Cash Equivalents,1070288.,5155826.,3534671.,2163108.,650538.
+            Short Term Investments,5106902.,5449910.,5313423.,5728858.,526213.
+                Other Short Term Investments,5106902.,5449910.,5313423.,5728858.,526213.
+"                Trading/ Listed Investments, Current",,,,,
+        Inventories,9703977.,13256102.,22875859.,15090618.,16873737.
+"            Raw Materials, Consumables and Supplies",1458474.,2285572.,10950768.,2799462.,4185427.
+            Work-in-Process,1962764.,946436.,1874912.,3314016.,3591060.
+            Finished Goods and Merchandise,6282739.,10024094.,10050179.,8977140.,9097250.
+            Other Inventories,,,,,
+"        Trade and Other Receivables, Current",9990949.,13875190.,13703281.,8621987.,5833939.
+"            Trade/Accounts Receivable, Current",7805882.,11853273.,12806635.,7973215.,5332522.
+"            Loans Receivable, Current",,,,259939.,184065.
+"            Taxes Receivable, Current",110677.,1109827.,519997.,327233.,299443.
+"            Other Receivables, Current",997626.,38290.,376649.,61600.,17909.
+"            Amount Due From Related Parties, Current",837575.,492994.,.,,
+"            Accrued Income/Unbilled Revenue/Cost in Excess of Billings, Current",239189.,380806.,,,
+"        Prepayments and Deposits, Current",,,407856.,342870.,253754.
+        Other Current Assets,,,,,
+    Total Non-Current Assets,115425889.,126439493.,135742052.,138561451.,108555743.
+"        Net Property, Plant and Equipment",90465071.,96047491.,96496343.,96789396.,94806369.
+"            Gross Property, Plant and Equipment",103886586.,111102162.,113345457.,115500203.,115080684.
+                Properties,3613873.,3703448.,29627695.,29960934.,3704978.
+                    Land and Improvements,3613873.,3703448.,3704978.,3704978.,3704978.
+                    Buildings and Improvements,,,25922717.,26255956.,
+"                Machinery, Furniture and Equipment",63552605.,80890409.,80003659.,80457841.,79931151.
+                    Plant and Machinery,63552605.,80890409.,78996603.,79429592.,79931151.
+"                    Furniture, Fixtures and Office Equipment",,,1007056.,1028249.,
+                    Other Equipment,,,,,
+                Construction in Progress and Advance Payments,36072647.,25769717.,374251.,.,26334274.
+"                Other Property, Plant and Equipment",647461.,738588.,3339852.,5081428.,5110281.
+            Accumulated Depreciation and Impairment,-13421515.,-15054671.,-16849114.,-18710807.,-20274315.
+                Accumulated Depreciation,-13290241.,-14923397.,-16717840.,-18579533.,-20274315.
+"                    Accumulated Depreciation of Machinery, Furniture and Equipment",-11519855.,-12868977.,-13131018.,-14381811.,-15418188.
+                        Accumulated Depreciation of Plant and Machinery,-11519855.,-12868977.,-12457823.,-13666996.,-15418188.
+"                        Accumulated Depreciation of Furniture, Fixtures and Office Equipment",,,-673195.,-714815.,
+                        Accumulated Depreciation of Other Equipment,,,,,
+                    Accumulated Depreciation of Construction in Progress,-1556829.,-1808043.,,,-2907268.
+"                    Accumulated Depreciation of Other Property, Plant and Equipment",-213557.,-246377.,-1447081.,-1676579.,-1948859.
+                    Accumulated Depreciation of Properties,,,-2139741.,-2521143.,
+                        Accumulated Depreciation of Buildings,,,-2139741.,-2521143.,
+                Accumulated Impairment of PPE,-131274.,-131274.,-131274.,-131274.,.
+        Investment Properties and Properties Held for Development,129075.,129075.,129075.,129075.,129075.
+        Net Intangible Assets,1213851.,1104796.,1032021.,900905.,736808.
+            Gross Goodwill and Other Intangible Assets,3388914.,3535724.,3689040.,3756939.,3795833.
+                Intangibles other than Goodwill,3388914.,3535724.,3689040.,3756939.,3795833.
+                    Software and Technology,382505.,514749.,598952.,602790.,632019.
+                    Research and Development,2777628.,2784997.,2822430.,2876560.,2885855.
+                    Other Intangible Assets,228781.,235978.,267658.,277589.,277959.
+            Accumulated Amortization and Impairment,-2175063.,-2430928.,-2657019.,-2856034.,-3059025.
+                Accumulated Amortization of Intangible Assets,-2175063.,-2430928.,-2657019.,-2856034.,-3059025.
+                    Accumulated Amortization of Intangibles other than Goodwill,-2175063.,-2430928.,-2657019.,-2856034.,-3059025.
+                        Accumulated Amortization of Software and Technology,-241030.,-280588.,-322014.,-373187.,-429867.
+                        Accumulated Amortization of Research and Development,-1735613.,-1934784.,-2107650.,-2242545.,-2376804.
+                        Accumulated Amortization of Other Intangible Assets,-198420.,-215556.,-227355.,-240302.,-252354.
+        Total Long Term Investments,21151068.,26835544.,35204932.,36741161.,7276787.
+            Long Term Equity Investments,16485191.,22144656.,13790689.,14038565.,2537134.
+"            Investment in Financial Assets, Non-Current",4665877.,4690888.,21414243.,22702596.,4739653.
+"                Debt Securities, Non-Current",138403.,138403.,138403.,138403.,.
+"                Equity Securities/Shares, Non-Current",41393.,66403.,86476.,86476.,86476.
+"                Other Financial Assets, Non-Current",4486081.,4486082.,21189364.,22477717.,4653177.
+"        Trade and Other Receivables, Non-Current",75247.,75246.,67098.,67098.,67098.
+"            Loans Receivable, Non-Current",75247.,75246.,67098.,67098.,67098.
+"        Deferred Tax Assets, Non-Current",2391577.,2247341.,2812583.,3933816.,5539606.
+"        Deferred Costs/Assets, Non-Current",,,,,
+Total Liabilities,96922807.,116408714.,134122971.,126202601.,123630849.
+    Total Current Liabilities,31248405.,31784571.,51683051.,45484074.,51366060.
+"        Payables and Accrued Expenses, Current",9470097.,11992016.,22118488.,17897062.,12070928.
+"            Trade and Other Payables, Current",9470097.,11992016.,22118488.,17897062.,12070928.
+"                Trade/Accounts Payable, Current",8816874.,10963765.,20506457.,16569504.,10621294.
+"                Taxes Payable, Current",98454.,110895.,556210.,185669.,352179.
+"                Other Payable, Current",554769.,917356.,1055821.,1141889.,1097455.
+"                Amount Due to Related Parties/Shareholders, Current",,,,,
+"        Financial Liabilities, Current",21778308.,19792555.,29564563.,27587012.,37916935.
+            Current Debt and Capital Lease Obligation,14336768.,15445656.,24771787.,23305307.,31307731.
+                Current Debt,133473.,130483.,616921.,130483.,.
+"                    Borrowings from Associates and Related Parties, Current Debt",133473.,130483.,616921.,130483.,.
+"                    Other Loans, Current Debt",,,,,
+                Current Portion of Long Term Debt and Capital Lease,14203295.,15315173.,24154866.,23174824.,31307731.
+                    Current Portion of Long Term Debt,11772218.,13416531.,22376386.,22260504.,30326339.
+"                        Bank/Institutional Loans, Current Portion of LT Debt",11721301.,12211394.,20911318.,20795436.,30326339.
+                        Other Current Portion of LT Debt,50917.,1205137.,1465068.,1465068.,.
+"                    Capital Lease Obligations, Current",2431077.,1898642.,1778480.,914320.,981392.
+"            Other Financial Liabilities, Current",7441540.,4346899.,4792776.,4281705.,6609204.
+"        Deferred Liabilities, Current",,,,,1378197.
+"            Deferred Income/Customer Advances/Billings in Excess of Cost, Current",,,,,1378197.
+"            Other Deferred Liabilities, Current",,,,,
+    Total Non-Current Liabilities,65674402.,84624143.,82439920.,80718527.,72264789.
+"        Financial Liabilities, Non-Current",59389260.,77798133.,75902643.,74383005.,66281961.
+            Long Term Debt and Capital Lease Obligation,36732905.,61527384.,63691528.,62229303.,56684295.
+                Long Term Debt,30303957.,57766137.,61708530.,59618984.,55055137.
+"                    Notes Payables, Non-Current",17874903.,47432890.,47194849.,47766555.,51010456.
+"                    Bank/Institutional Loans, Non-Current",12429054.,10333247.,14513681.,11852429.,4044681.
+"                    Other Loans, Non-Current",,,,,
+"                Capital Lease Obligations, Non-Current",6428948.,3761247.,1982998.,2610319.,1629158.
+"            Other Financial Liabilities, Non-Current",22656355.,16270749.,12211115.,12153702.,9597666.
+"        Tax Liabilities, Non-Current",6285142.,6826010.,6537277.,6335522.,5982828.
+"            Deferred Tax Liabilities, Non-Current",6285142.,6826010.,6537277.,6335522.,5982828.
+Total Equity,44375198.,47767807.,47454171.,44306291.,9063075.
+    Equity Attributable to Parent Stockholders,44375198.,47767807.,47454171.,44306291.,9063075.
+        Paid in Capital,30397000.,30397000.,30181157.,30221267.,30266684.
+            Capital Stock,30397000.,30397000.,30397000.,30397000.,30397000.
+                Common Stock,25710333.,25710333.,25710333.,25710333.,25710333.
+                Additional Paid in Capital/Share Premium,4686667.,4686667.,4686667.,4686667.,4686667.
+            Treasury Stock,,,-215843.,-175733.,-130316.
+        Retained Earnings/Accumulated Deficit,254200.,4090150.,367628.,-2707048.,-36572403.
+        Reserves/Accumulated Comprehensive Income/Losses,1703579.,2066614.,6124269.,6467373.,5961088.
+            Other Reserves/Accum.Comp.Inc,,,,,
+        Other Equity Interest,12020419.,11214043.,10781117.,10324699.,9407706.
+Debt Maturity Schedule Total,59389260.,97460205.,104850285.,101839534.,
+    Debt due in Year 1,9562379.,19662072.,28947642.,27456529.,
+    Debt due in Year 2,11971554.,7304639.,9019492.,9731085.,
+    Debt due in Year 3,6721120.,6186785.,6369853.,8527196.,
+    Debt due in Year 4,24079200.,6306350.,7655814.,52140473.,
+    Debt due in Year 5,,5191703.,3122849.,3017016.,
+    Debt due Beyond,7055007.,52808656.,49734635.,967235.,
+Capital Lease Obligation Maturity Schedule Total,,,,3524639.,
+    Capital Lease due in Year 1,,,,914320.,
+    Capital Lease due in Year 5,,,,2610319.,
+Operating Lease Obligation Maturity Schedule Total,98551.,83244.,1042056.,818655.,
+    Operating Lease due in Year 1,46669.,43050.,207894.,191367.,
+    Operating Lease due Beyond,51882.,40194.,713396.,627288.,
+    Operating Lease - Interests Charges and Other Adjustments,,,120766.,,
+Total Lease Liability,98551.,83244.,1042056.,4343294.,
+    Total Lease Liability - Due in year 1,46669.,43050.,207894.,1105687.,
+    Total Lease Liability - Due in year 5,51882.,40194.,713396.,3237607.,
+    Total Lease Liability - Beyond,,,120766.,,
+Total Contractual Obligations,59487811.,97543449.,105892341.,106182828.,
+    Total Contractual Obligations due in year 1,9609048.,19705122.,29155536.,28562216.,
+    Total Contractual Obligations due in year 2,11971554.,7304639.,9019492.,9731085.,
+    Total Contractual Obligations due in year 3,6721120.,6186785.,6369853.,8527196.,
+    Total Contractual Obligations due in year 4,24079200.,6306350.,7655814.,52140473.,
+    Total Contractual Obligations due in year 5,51882.,5231897.,3836245.,6254623.,
+    Total Contractual Obligations due Beyond,7055007.,52808656.,49855401.,967235.,
+Fiscal year ends in Dec 31 | EUR,,,,,

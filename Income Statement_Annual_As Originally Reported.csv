@@ -1,0 +1,75 @@
+﻿ELZ_income-statement_Annual_As_Originally_Reported,2020,2021,2022,2023,2024,TTM
+Gross Profit,17761438.,24628325.,25171371.,19266144.,19710334.,19710334.
+    Total Revenue,76173339.,109399633.,133101548.,101614581.,90925901.,90925901.
+        Business Revenue,76173339.,109399633.,133101548.,101614581.,90925901.,90925901.
+    Cost of Revenue,-58411901.,-84771308.,-107930177.,-82348437.,-71215567.,-71215567.
+        Cost of Goods and Services,-58522057.,-84999006.,-108021335.,-82160918.,-71047801.,-71047801.
+        Other Costof Revenue,110156.,227698.,91158.,-187519.,-167766.,-167766.
+        Changes in Inventories,,,,,,
+Operating Income/Expenses,-11991247.,-15141646.,-19110518.,-16327312.,-16313162.,-16313162.
+"    Selling, General and Administrative Expenses",-6995255.,-8490749.,-10569341.,-9833953.,-9771833.,-9771833.
+        Staff Costs,-5186902.,-6583758.,-7861083.,-7171385.,-7062985.,-7062985.
+            Wages and Salaries,-4068040.,-5165939.,-6125526.,-5476147.,-5432202.,-5432202.
+            Social Security Costs,-1118862.,-1417819.,-1735557.,,-1630783.,-1630783.
+            Other Staff Costs,,,,-1695238.,,
+"        Legal, Accounting, Auditing and Consulting Fee",-1208002.,-1235446.,-1639036.,-1630079.,-1585618.,-1585618.
+            Other Professional Accounting and Consulting Fees,,,,,,
+        Insurance and Claims,-221975.,-298191.,-476051.,-317155.,-403468.,-403468.
+        Rent Expense,-124911.,-119898.,-348147.,-454662.,-547269.,-547269.
+        Selling and Marketing Expenses,-253465.,-253456.,-245024.,-260672.,-172493.,-172493.
+        General and Administrative Expenses,,,,,,
+    Operation and Maintenance Expenses,-520527.,-575299.,-610110.,-556711.,-572477.,-572477.
+"    Depreciation, Amortization and Depletion",-1539726.,-1889021.,-2020534.,-2060708.,-2045838.,-2045838.
+        Depreciation and Amortization,-1539726.,-1889021.,-2020534.,-2060708.,-2045838.,-2045838.
+            Depreciation,-1539726.,-1889021.,-2020534.,,,
+    Taxes Other Than Income Taxes,-63494.,-63297.,-198883.,-100360.,-98183.,-98183.
+"    Other Income/Expense, Operating",-2872245.,-4109051.,-5711650.,-3775580.,-3824831.,-3824831.
+"        Income from Grants Received, Operating",602574.,926111.,887443.,669093.,480010.,480010.
+"        Other Income, Operating",468966.,672993.,1083931.,561122.,465529.,465529.
+"        Other Expenses, Operating",-3943785.,-5708155.,-7683024.,-5005795.,-4770370.,-4770370.
+    Provisions,,-14229.,.,,,
+Total Operating Profit/Loss,5770191.,9486679.,6060853.,2938832.,3397172.,3397172.
+"Non-Operating Income/Expense, Total",-3418995.,-4029561.,-5573652.,-6553430.,-38616419.,-38616419.
+    Total Net Finance Income/Expense,-3575251.,-4390395.,-6026939.,-6935719.,-8481660.,-8481660.
+        Net Interest Income/Expense,-3330258.,-4127574.,-5728198.,-6629936.,-8310107.,-8310107.
+            Interest Expense Net of Capitalized Interest,-3744138.,-4339987.,-5728198.,-6629936.,-9335860.,-9335860.
+            Interest Income,413880.,212413.,.,,1025753.,1025753.
+        Other Finance Income/Expenses,-244993.,-262821.,-298741.,-305783.,-171553.,-171553.
+            Other Finance Expenses,-244993.,-262821.,-298741.,-305783.,-171553.,-171553.
+            Other Finance Income,,,,,,
+    Net Investment Income,156256.,360738.,453287.,382289.,-3746.,-3746.
+        Gain/Loss on Foreign Currency Exchange,.,,-10909.,-10424.,-3746.,-3746.
+        Gain/Loss on Investments and Other Financial Instruments,7650.,9126.,1703.,3355.,,5755.
+"        Income from Associates, JointVentures and Other Participating Interests",148606.,351612.,462493.,389358.,,447384.
+        Fair Value or Unrealized Gain/Loss on Financial Assets,,,,,,
+    Irregular Income/Expense,.,96.,.,,-30131013.,-30131013.
+        Impairment/Write Off/Write Down of Capital Assets,.,96.,.,,-330615.,-330615.
+        Write Off/Write Down of Other Assets,,,,,-29800398.,-29800398.
+        Fixed Asset Disposals,,,,,,
+        Other Irregular Income/Expense,,,,,,
+Pretax Income,2351196.,5457118.,487201.,-3614598.,-35219247.,-35219247.
+Provision for Income Tax,-590511.,-1366968.,-119573.,907550.,1353892.,1353892.
+Net Income before Extraordinary Items and Discontinued Operations,1760685.,4090150.,367628.,-2707048.,-33865355.,-33865355.
+Net Income after Extraordinary Items and Discontinued Operations,1760685.,4090150.,367628.,-2707048.,-33865355.,-33865355.
+Net Income after Non-Controlling/Minority Interests,1760685.,4090150.,367628.,-2707048.,-33865355.,-33865355.
+Net Income Available to Common Stockholders,1760685.,4090150.,367628.,-2707048.,-33865355.,-33865355.
+Diluted Net Income Available to Common Stockholders,1760685.,4090150.,367628.,-2707048.,-33865355.,-33865355.
+Income Statement Supplemental Section,,,,,,
+    Reported Normalized and Operating Income/Expense Supplemental Section,,,,,,
+"        Total Revenue as Reported, Supplemental",76173339.,109399633.,133101548.,101614581.,90925901.,90925901.
+        Reported Total Operating Profit/Loss,5525198.,9223954.,5762112.,2633049.,2895004.,2895004.
+        Reported Operating Expense,,,,,,
+"    Operating Income/Expense, Supplemental Section",,,,,,
+"        Depreciation, Amortization and Depletion, Supplemental",,,,,,
+"            Depreciation and Amortization, Supplemental",,,,,,
+Basic EPS,.01,.03,.,-.02,-.27,-.27
+    Basic EPS from Continuing Operations,.01,.03,.,-.02,-.27,-.27
+Diluted EPS,.01,.03,.,-.02,-.27,-.27
+    Diluted EPS from Continuing Operations,.01,.03,.,-.02,-.27,-.27
+Basic Weighted Average Shares Outstanding,127765930.,127909285.,127863452.,127885573.,127711725.,127711725.
+Diluted Weighted Average Shares Outstanding,127765930.,127909285.,127863452.,127885573.,127711725.,127711725.
+Basic EPS,.01,.03,.,-.02,-.27,-.27
+Diluted EPS,.01,.03,.,-.02,-.27,-.27
+Basic WASO,127879620.,127859474.,127766866.,127827403.,,
+Diluted WASO,127879620.,127859474.,127766866.,127827403.,,
+Fiscal year ends in Dec 31 | EUR,,,,,,

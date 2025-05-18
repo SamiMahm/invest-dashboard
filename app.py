@@ -1,5 +1,5 @@
 import streamlit as st
-from main import get_fmp_data
+from main import get_fmp_data, is_halal_sector
 
 st.title("📊 FMP Investment Dashboard")
 
@@ -10,16 +10,28 @@ def display_data(name, sector, currency, eps, gpm,
                  total_assets, total_liab, total_equity,
                  debt_ratio, op_cash, capex, fcf):
     
-    st.subheader(f"{name} ({sector})")
+    st.title(f"{name}")
+    st.subheader(f"{sector}")
     st.write(f"**Currency:** {currency}")
 
-    st.subheader("📈 Financial Overview")
+    st.markdown(
+        f"""
+<div style"border: 1px solid #FFFFF; padding: 16px; border-radius: 10px">
+<p>Status: <strong>{is_halal_sector(sector)}</strong></p>
+</div>
+"""
+, unsafe_allow_html=True
+    )
+
+
+
+    st.subheader("Financial Overview")
     st.write(f"**Total Assets:** {currency} {total_assets}")
     st.write(f"**Total Liabilities:** {currency} {total_liab}")
     st.write(f"**Total Equity:** {currency} {total_equity}")
     st.write(f"**Debt Ratio:** {debt_ratio:.2f}%" if debt_ratio else "N/A")
 
-    st.subheader("📊 Profitability")
+    st.subheader("Profitability")
     st.write(f"**Revenue Year 1:** {currency} {rev_y1}")
     st.write(f"**Revenue Year 2:** {currency} {rev_y2}")
     st.write(f"**YOY Revenue Change:** {yoy_rev:.2%}" if yoy_rev else "N/A")
